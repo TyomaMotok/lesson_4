@@ -1,0 +1,150 @@
+/* --------- ОБНУЛЕННЯ СТИЛІВ ТЕГІВ ------------ */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a {
+	color: inherit;
+}
+a:link,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+img{
+	vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+input,
+button,
+textarea {
+	font-family: inherit;
+	font-size: inherit;
+}
+button {
+	cursor: pointer;
+	color: inherit;
+	background-color: inherit;
+}
+body {
+	line-height: 1;
+}
+
+/* --------------------------------- */
+
+
+body{font-size: 18px;
+font-family: "Raleway";}
+
+.title{font-size: 40px;
+font-family: "Larsseit";
+font-weight: 400;
+}
+.paragraphs{line-height: 20px;}
+
+.loosing img {width: 700px;}
+
+li a {color: blue;}
+
+ul{line-height: 25px;}
+
+
+
+p span{color: brown;}
+
+
+a {color: rgb(84, 84, 222) ;}
+
+.welcome__title{
+    font-family: "Lato";
+    font-weight: 700;
+}
+
+.scroll{background-color: antiquewhite;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --------------- */
+
+
+.welcome {
+}
+.welcome__title {
+}
+.title {
+}
+.welcome__paragraphs {
+}
+.paragraphs {
+}
+.content__table {
+}
+.table__title {
+}
+.list {
+}
+.loosing {
+}
+.loosing__title {
+}
+.loosing__paragraphs {
+}
+.loosing__highlight {
+}
+.meaning {
+}
+.meaning__title {
+}
+.meaning__paragraphs {
+}
+.invest {
+}
+.invest__title {
+}
+.invest__paragraphs {
+}
+.article__link {
+}
